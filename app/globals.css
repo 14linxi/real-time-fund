@@ -729,6 +729,14 @@ input[type="number"] {
   padding: 16px;
 }
 
+.pending-list {
+  scrollbar-width: none;
+}
+
+.pending-list::-webkit-scrollbar {
+  display: none;
+}
+
 .chips {
   display: flex;
   flex-wrap: wrap;
