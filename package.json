@@ -2,6 +2,7 @@
   "name": "real-time-fund",
   "version": "0.1.5",
   "private": true,
+  "homepage": "https://14linxi.github.io/real-time-fund",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
